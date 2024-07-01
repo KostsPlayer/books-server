@@ -9,6 +9,7 @@ const configureMiddleware = (app) => {
         "http://localhost:3000",
         "http://localhost:5500",
         "https://vancitywayne.github.io",
+        "http://localhost:5173"
       ],
       methods: ["GET", "POST", "PUT", "OPTIONS", "DELETE"],
       credentials: true,
